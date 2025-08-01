@@ -8,3 +8,4 @@ Start: 12:00 pm EST
 End: 3:00pm EST
 This was the fist few steps to begining my USB hub that I am in desprate need of. Today was just the mundane stuff, reading the tutorial finding the parts on JLC and placing them down. The schematic should be done fairly soon and be ready to PCB-fy.
 <img width="514" height="299" alt="Screenshot 2025-08-01 142705" src="https://github.com/user-attachments/assets/1267df54-25d8-48b5-9a31-de8a05c269cc" />
+** Total Time 2hrs **
