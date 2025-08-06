@@ -10,4 +10,4 @@ This was the fist few steps to begining my USB hub that I am in desprate need of
 <img width="514" height="299" alt="Screenshot 2025-08-01 142705" src="https://github.com/user-attachments/assets/1267df54-25d8-48b5-9a31-de8a05c269cc" />
 ** Total Time 2hrs **
 
-# August 1st : Got 
+# August 1st : Got everything on Groundplan for all of journaling needs.
